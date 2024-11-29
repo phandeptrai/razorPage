@@ -1,0 +1,59 @@
+﻿@page
+@model RazorPageHW.Pages.Contacts.ContactPageModel
+@{
+    ViewData["Title"] = "Lien he";
+}
+
+<h2>Trang lien he</h2>
+
+
+<p>Dien thong tin lien he</p>
+<form method="post" asp-page="/Contacts/ContactPage">
+    <div class="form-group">
+        <label asp-for="@Model.contact.ContactId"></label>
+        <input asp-for="@Model.contact.ContactId" class="form-control" />
+        <span asp-validation-for="@Model.contact.ContactId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="@Model.contact.FirstName"></label>
+        <input asp-for="@Model.contact.FirstName" class="form-control" />
+        <span asp-validation-for="@Model.contact.FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="@Model.contact.LastName"></label>
+        <input asp-for="@Model.contact.LastName" class="form-control" />
+        <span asp-validation-for="@Model.contact.LastName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="@Model.contact.DateOfBirth"></label>
+        <input asp-for="@Model.contact.DateOfBirth" type="date" class="form-control" />
+        <span asp-validation-for="@Model.contact.DateOfBirth" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="@Model.contact.Email"></label>
+        <input asp-for="@Model.contact.Email" class="form-control" />
+        <span asp-validation-for="@Model.contact.Email" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Gui</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<p>@Model.thongbao</p>
+<div class="alert alert-danger">
+    <p>Thông tin Contact</p>
+    <ul>
+        <li>ContactId: @Model.contact.ContactId</li>
+        <li>FirstName: @Model.contact.FirstName</li>
+        <li>LastName: @Model.contact.LastName</li>
+        <li>BirthDate: @Model.contact.DateOfBirth</li>
+        <li>Email: @Model.contact.Email</li>
+    </ul>
+</div>

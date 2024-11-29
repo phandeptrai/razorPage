@@ -1,0 +1,27 @@
+﻿@page
+@model RazorPageHW.Pages.Users.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="email" class="form-control" id="Email" name="Email" required />
+    </div>
+    <div class="form-group">
+        <label for="Password">Password</label>
+        <input type="password" class="form-control" id="Password" name="Password" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>
+<a class="btn btn-secondary"asp-page="Register">register</a>
+
+@if (Model.Message != null)
+{
+    <div class="alert alert-warning mt-3">
+        @Model.Message
+    </div>
+}

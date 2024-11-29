@@ -1,0 +1,27 @@
+﻿@page
+@using RazorPageHW.Models
+@model IndexModel
+
+@{
+
+
+
+
+}
+@await Html.PartialAsync("_Message");
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@{
+    var product1 = new Product() { Id = 0, Name = "Iphone 16 min", Description = "Iphone dỏm", Price = 20000 };
+    var product2 = new Product() { Id = 1, Name = "SamSung s24", Description = "Dễ bị sọc màn hình", Price = 50000 };
+    var product3 = new Product() { Id = 2, Name = "Oppo tàu", Description = "Hàng Tàu", Price = 5000 };
+    var product4 = new Product() { Id = 3, Name = "Redme", Description = "Hàng Tàu", Price = 4000 };
+
+}
+
+

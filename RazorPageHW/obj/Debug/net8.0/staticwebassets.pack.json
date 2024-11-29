@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RazorPageHW.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RazorPageHW.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\0464d3d2-b388-4afe-83ca-34aa93398257.png",
+      "PackagePath": "staticwebassets\\images\\0464d3d2-b388-4afe-83ca-34aa93398257.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\1329405 - Copy - Copy.png",
+      "PackagePath": "staticwebassets\\images\\1329405 - Copy - Copy.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\1329405 - Copy.png",
+      "PackagePath": "staticwebassets\\images\\1329405 - Copy.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\166db6ad-4e77-4dd9-8236-ed92d5a73df0.png",
+      "PackagePath": "staticwebassets\\images\\166db6ad-4e77-4dd9-8236-ed92d5a73df0.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\1a262bd8-db9e-4aef-a81f-3af8f2f934d0.jpeg",
+      "PackagePath": "staticwebassets\\images\\1a262bd8-db9e-4aef-a81f-3af8f2f934d0.jpeg"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\1f6ef2c2-0b77-4359-b909-ab0a0f9a8e78.png",
+      "PackagePath": "staticwebassets\\images\\1f6ef2c2-0b77-4359-b909-ab0a0f9a8e78.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\3050ae05-8916-4891-9c6f-b8eb62804332.png",
+      "PackagePath": "staticwebassets\\images\\3050ae05-8916-4891-9c6f-b8eb62804332.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\35db95d6-cf34-4f15-ba16-abee11178003.jpeg",
+      "PackagePath": "staticwebassets\\images\\35db95d6-cf34-4f15-ba16-abee11178003.jpeg"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\5a415a57-7dde-4825-81fa-acd7f80a8ff6.png",
+      "PackagePath": "staticwebassets\\images\\5a415a57-7dde-4825-81fa-acd7f80a8ff6.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\665b983d-5b76-4c36-bb11-a63215ff6ed6.png",
+      "PackagePath": "staticwebassets\\images\\665b983d-5b76-4c36-bb11-a63215ff6ed6.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\8196cb59-f6ba-490d-92c2-6637a5562391.png",
+      "PackagePath": "staticwebassets\\images\\8196cb59-f6ba-490d-92c2-6637a5562391.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\90dbe0b1-4f60-4393-97ab-683874df06a8.png",
+      "PackagePath": "staticwebassets\\images\\90dbe0b1-4f60-4393-97ab-683874df06a8.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\a71a0096-6748-49b1-b228-00dd7bc26d17.png",
+      "PackagePath": "staticwebassets\\images\\a71a0096-6748-49b1-b228-00dd7bc26d17.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\c94f0b76-189f-47c5-9d02-0a427ec465b1.png",
+      "PackagePath": "staticwebassets\\images\\c94f0b76-189f-47c5-9d02-0a427ec465b1.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\cd799a6b-733f-486e-8090-178927525878.png",
+      "PackagePath": "staticwebassets\\images\\cd799a6b-733f-486e-8090-178927525878.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\images\\f2046c92-3d8a-4282-998e-9cc3f23ef2c6.png",
+      "PackagePath": "staticwebassets\\images\\f2046c92-3d8a-4282-998e-9cc3f23ef2c6.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\uploads\\1329405.png",
+      "PackagePath": "staticwebassets\\uploads\\1329405.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\uploads\\1344988.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\1344988.jpeg"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\uploads\\4c41ed4c-68df-46f4-b933-e63c42c5a826.png",
+      "PackagePath": "staticwebassets\\uploads\\4c41ed4c-68df-46f4-b933-e63c42c5a826.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\uploads\\742e5b04-2117-48f2-ab57-d838b6227225.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\742e5b04-2117-48f2-ab57-d838b6227225.jpeg"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\uploads\\74cf294e-2dcd-4513-8287-8b76a46546fe.png",
+      "PackagePath": "staticwebassets\\uploads\\74cf294e-2dcd-4513-8287-8b76a46546fe.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\uploads\\7a4fb2fe-7e07-482a-997a-700400280400.png",
+      "PackagePath": "staticwebassets\\uploads\\7a4fb2fe-7e07-482a-997a-700400280400.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\uploads\\a706b315-0be3-417f-a9b8-96813e990541.png",
+      "PackagePath": "staticwebassets\\uploads\\a706b315-0be3-417f-a9b8-96813e990541.png"
+    },
+    {
+      "Id": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\wwwroot\\uploads\\ebc423ab-8b02-40a9-9574-d14defb8c92e.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ebc423ab-8b02-40a9-9574-d14defb8c92e.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RazorPageHW.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RazorPageHW.props",
+      "PackagePath": "build\\RazorPageHW.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RazorPageHW.props",
+      "PackagePath": "buildMultiTargeting\\RazorPageHW.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RazorPageHW.props",
+      "PackagePath": "buildTransitive\\RazorPageHW.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

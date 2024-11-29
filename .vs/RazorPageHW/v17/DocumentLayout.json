@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_.Net\\RazorPageHW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|d:\\_.net\\razorpagehw\\razorpagehw\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|solutionrelative:razorpagehw\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|d:\\_.net\\razorpagehw\\razorpagehw\\models\\imgproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|solutionrelative:razorpagehw\\models\\imgproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|d:\\_.net\\razorpagehw\\razorpagehw\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|solutionrelative:razorpagehw\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|d:\\_.net\\razorpagehw\\razorpagehw\\pages\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|solutionrelative:razorpagehw\\pages\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|d:\\_.net\\razorpagehw\\razorpagehw\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|solutionrelative:razorpagehw\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|d:\\_.net\\razorpagehw\\razorpagehw\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|solutionrelative:razorpagehw\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|d:\\_.net\\razorpagehw\\razorpagehw\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|solutionrelative:razorpagehw\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|d:\\_.net\\razorpagehw\\razorpagehw\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|solutionrelative:razorpagehw\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|d:\\_.net\\razorpagehw\\razorpagehw\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|solutionrelative:razorpagehw\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|d:\\_.net\\razorpagehw\\razorpagehw\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|solutionrelative:razorpagehw\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|d:\\_.net\\razorpagehw\\razorpagehw\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA89012-C9A9-48EE-8324-46A77516966F}|RazorPageHW\\RazorPageHW.csproj|solutionrelative:razorpagehw\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImgProduct.cs",
+              "DocumentMoniker": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Models\\ImgProduct.cs",
+              "RelativeDocumentMoniker": "RazorPageHW\\Models\\ImgProduct.cs",
+              "ToolTip": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Models\\ImgProduct.cs",
+              "RelativeToolTip": "RazorPageHW\\Models\\ImgProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:07:58.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "RazorPageHW\\Pages\\Users\\Login.cshtml",
+              "ToolTip": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Users\\Login.cshtml",
+              "RelativeToolTip": "RazorPageHW\\Pages\\Users\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T06:58:57.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorPageHW\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorPageHW\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACIAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T06:55:52.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorPageHW\\Pages\\Products\\Create.cshtml",
+              "ToolTip": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Create.cshtml",
+              "RelativeToolTip": "RazorPageHW\\Pages\\Products\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T06:11:48.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPageHW\\Pages\\Products\\Create.cshtml.cs",
+              "ToolTip": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorPageHW\\Pages\\Products\\Create.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:40:03.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPageHW\\Pages\\Products\\Edit.cshtml.cs",
+              "ToolTip": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorPageHW\\Pages\\Products\\Edit.cshtml.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAEoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:33:33.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorPageHW\\Pages\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Edit.cshtml",
+              "RelativeToolTip": "RazorPageHW\\Pages\\Products\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:33:23.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPageHW\\Pages\\Products\\Index.cshtml.cs",
+              "ToolTip": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPageHW\\Pages\\Products\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:26:34.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPageHW\\Pages\\Products\\Details.cshtml.cs",
+              "ToolTip": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeToolTip": "RazorPageHW\\Pages\\Products\\Details.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:26:28.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPageHW\\Pages\\Products\\Index.cshtml",
+              "ToolTip": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Index.cshtml",
+              "RelativeToolTip": "RazorPageHW\\Pages\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:24:05.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "RazorPageHW\\Pages\\Products\\Details.cshtml",
+              "ToolTip": "D:\\_.Net\\RazorPageHW\\RazorPageHW\\Pages\\Products\\Details.cshtml",
+              "RelativeToolTip": "RazorPageHW\\Pages\\Products\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:18:32.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
